@@ -1,0 +1,51 @@
+
+PDF Reader
+
+This is a program used to read PDF files; it searches for a title or specific word within them.
+
+How to use:
+
+Run the program.py.
+A menu with the following options will be displayed:
+Search for a specific title or keyword.
+Close the program.
+Enter the number corresponding to the option you want.
+If you choose option "1," you will be prompted to enter the title or keyword.
+The program will read all PDF files in the specified directory and display the search results.
+If there are results, you can choose a file to view its content.
+The content of the selected file will be displayed in the terminal.
+Usage examples:
+
+Enter the path to the folder where you want to search your PDFs:
+/path/to/folder
+What do you want to do?
+
+Search for a specific title or keyword.
+Close the program.
+If the answer is "1":
+1
+Enter the keyword to be searched:
+Python
+Found Files:
+
+File1.pdf
+Title: Title of File 1
+
+File2.pdf
+Title: Title of File 2
+
+Enter the number of the file you want to view (or press Enter to return to the main menu):
+
+Content of File1.pdf:
+
+***********...
+What do you want to do?
+
+Search for a specific title or keyword.
+Close the program.
+2
+
+Program Closed.
+
+Contribution
+Contributions are welcome! If you have any suggestions, bug fixes, or improvements for the code, please feel free to open an issue or submit a pull request.

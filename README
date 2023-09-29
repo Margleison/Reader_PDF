@@ -5,7 +5,7 @@ This is a program used to read PDF files; it searches for a title or specific wo
 
 How to use:
 
-Run the program.py.
+Run the main.py.
 A menu with the following options will be displayed:
 Search for a specific title or keyword.
 Close the program.
